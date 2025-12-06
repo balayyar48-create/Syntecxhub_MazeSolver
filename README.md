@@ -1,3 +1,5 @@
+A Python implementation of the A* pathfinding algorithm with visualization. 
+Demonstrates heuristic-based search, shortest path computation, and grid-based modeling.
 <img width="640" height="480" alt="SyntecxhubMazeSolver" src="https://github.com/user-attachments/assets/9f5b0b35-25bd-4abe-a690-449507320d72" />
 # Maze Solver using A* Search
 
@@ -66,5 +68,6 @@ MIT
 
 **Rangala Yaswanth Kumar**  
 GitHub: https://github.com/balayyar48-create
+
 
 
