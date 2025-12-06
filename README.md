@@ -1,3 +1,4 @@
+<img width="640" height="480" alt="SyntecxhubMazeSolver" src="https://github.com/user-attachments/assets/9f5b0b35-25bd-4abe-a690-449507320d72" />
 # Maze Solver using A* Search
 
 This project implements an A* search algorithm to find the shortest path in a maze represented as a 2D grid.
@@ -60,4 +61,10 @@ python a_star.py
 ## 📄 License
 
 MIT
+
+## 👨‍💻 Author
+
+**Rangala Yaswanth Kumar**  
+GitHub: https://github.com/balayyar48-create
+
 
